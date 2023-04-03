@@ -19,5 +19,5 @@ We propose a data preprocessing approach using sliding window and feature reduct
 
 ## Citation
 Please cite this paper in your publications if it helps your research:
-'''
-'''
+```
+```

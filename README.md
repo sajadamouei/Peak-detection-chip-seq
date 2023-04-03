@@ -14,3 +14,5 @@ We propose a data preprocessing approach using sliding window and feature reduct
 * numpy
 * matplotlib
 * seaborn
+
+## Steps to Reproduce Results

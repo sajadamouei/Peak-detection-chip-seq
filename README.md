@@ -19,7 +19,7 @@ We propose a data preprocessing approach using sliding window and feature reduct
 
 To reproduce the results of experiments related to the pipeline designed for peak detection in the H3K9me3_TDH_BP dataset, follow these steps:
 
-**Step 1: Begin by executing the codes in the "Load decoded data and Pre-processing" sections. This will download the decoded dataset and call the necessary libraries. Within this section, you can use the sliders provided in the form to set the "win_size", "shift_size", and "pick_more" parameters for applying the proposed sliding window approach.
+**Step 1**: Begin by executing the codes in the "Load decoded data and Pre-processing" sections. This will download the decoded dataset and call the necessary libraries. Within this section, you can use the sliders provided in the form to set the "win_size", "shift_size", and "pick_more" parameters for applying the proposed sliding window approach.
 
 **Step 2**: Choose your desired feature reduction method from the drop-down menu in the "Select a Feature Reduction method" section.
 

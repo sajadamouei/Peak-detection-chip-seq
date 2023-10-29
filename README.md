@@ -28,5 +28,12 @@ To reproduce the results of experiments related to the pipeline designed for pea
 ## Citation
 If this paper helps your research, please consider citing it:
 ```
-Paper is in review
+@inproceedings{sheshkal2023ml,
+  title={ML-Peaks: Chip-seq peak detection pipeline using machine learning techniques},
+  author={Sheshkal, Sajad Amouei and Riegler, Michael Alexander and Hammer, Hugo Lewi},
+  booktitle={2023 IEEE 36th International Symposium on Computer-Based Medical Systems (CBMS)},
+  pages={335--340},
+  year={2023},
+  organization={IEEE}
+}
 ```

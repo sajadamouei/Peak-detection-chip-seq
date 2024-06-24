@@ -8,6 +8,8 @@ We propose a data preprocessing approach using sliding window and feature reduct
  
  We tested our methodology on the H3K9me3_TDH_BP ChIP-seq dataset exploring a range of different machine learning methods, sliding window settings, and feature reduction techniques to detect peak values without human intervention. Our pipeline efficiently detected the peaks, and achieved an F1-score of 0.9644 and a false positive rate of 0.1030.
 
+![pipeline](https://github.com/sajadamouei/Peak-detection-chip-seq/assets/27925997/aff09229-95e5-41ce-b6ce-3aa7fed16081)
+
 ## Requirements
 * Python version 3.8
 * scikit-learn
